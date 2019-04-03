@@ -38,7 +38,6 @@ setup(
     name='fabtools',
     version='0.21.0.dev0',
     description='Tools for writing awesome Fabric files',
-    long_description=read('README.rst') + '\n' + read('docs/CHANGELOG.rst'),
     author='Ronan Amicel',
     author_email='ronan.amicel@gmail.com',
     url='http://fabtools.readthedocs.org/',
